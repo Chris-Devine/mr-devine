@@ -1,0 +1,56 @@
+/* Blue - #3498db */
+
+
+a:link,a:visited,.navbar-default .navbar-nav>li>a:hover, 
+.navbar-default .navbar-nav>li>a:focus,a:hover,a:active,.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav>.active>a:focus{
+	color:#3498db;
+}
+
+.spacer,.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus,#grid .mix .overlay {
+
+background: #3498db;
+}
+
+#page-contact{
+	background: #3498db;
+	color:#fff;
+}
+
+#page-contact .spacer{
+	background: #fff;
+}
+
+#page-contact .section-title{
+	color:#fff;
+}
+
+.btn.btn-default:hover,
+.btn.btn-default:active{
+    color:#3498db;
+}
+
+
+
+/*
+     FILE ARCHIVED ON 09:39:47 Oct 07, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:27:48 Jun 06, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 550.363 (3)
+  esindex: 0.013
+  captures_list: 639.494
+  CDXLines.iter: 17.883 (3)
+  PetaboxLoader3.datanode: 556.674 (4)
+  exclusion.robots: 0.628
+  exclusion.robots.policy: 0.607
+  RedisCDXSource: 64.821
+  PetaboxLoader3.resolve: 265.949
+  load_resource: 415.333
+*/
