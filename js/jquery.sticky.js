@@ -127,25 +127,3 @@
     setTimeout(scroller, 0);
   });
 })(jQuery);
-
-/*
-     FILE ARCHIVED ON 09:38:00 Oct 07, 2017 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 07:27:54 Jun 06, 2018.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  LoadShardBlock: 2110.833 (3)
-  esindex: 0.011
-  captures_list: 2125.404
-  CDXLines.iter: 10.735 (3)
-  PetaboxLoader3.datanode: 1485.728 (4)
-  exclusion.robots: 0.178
-  exclusion.robots.policy: 0.167
-  RedisCDXSource: 0.73
-  PetaboxLoader3.resolve: 224.508
-  load_resource: 287.282
-*/
