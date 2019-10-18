@@ -50,7 +50,7 @@ $(document).ready(function () {
 
 
     /* Magnific Popup */
-    $('.grid-wrapper').magnificPopup({
+    $('.magnify-image').magnificPopup({
         delegate: 'a',
         type: 'image',
         gallery: {
